@@ -25,6 +25,7 @@ You should create one R script called run_analysis.R that does the following.
 run_analysis.R generates the tidy dataset, as requested by the project description.
 To run the program type: source("run_analysis.R")
 This program:
+
 1. downloads the data from (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) 
 2. unzips the data
 3. processes the data (details may be found in the CodeBook.md)

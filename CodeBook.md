@@ -1,4 +1,4 @@
-##Description of the run_analytics.R:
+##Description of the run_analysis.R:
 
 1. Load libraries:dplyr,data.table
 2. Download and unzip data
